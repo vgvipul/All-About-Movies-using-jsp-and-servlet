@@ -21,6 +21,7 @@ if(session.getAttribute("username")==null)
 %>
 <%@ include file="header.jsp" %>
 <br/>
+
 <h1>About Us:-</h1>
 <h3>We are a group of independent and passionate web developer.</h3>
 <p>Here we are to help you choose your favourite movies in no time and get all the movie genres at one place.</p>

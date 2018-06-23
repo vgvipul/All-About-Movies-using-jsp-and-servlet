@@ -22,6 +22,7 @@ if(session.getAttribute("username")==null)
 <br/>
 <%@include file="header.jsp" %>
 <br/>
+
 <p align="center">
 <h2 align="center">Contact US</h2>
 <br>

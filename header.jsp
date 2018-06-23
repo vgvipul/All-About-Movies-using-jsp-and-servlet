@@ -60,7 +60,13 @@ function closeNav() {
 	 </ul>
 	 </li>
 	 </ul>
-
+       <ul class="nav navbar-nav navbar-right">   
+     <li>	  
+	<form action="logout">
+<input type="submit" value="Logout">
+</form>
+          </li>
+		  </ul>
 	 </div>
 	</div>
    </nav>

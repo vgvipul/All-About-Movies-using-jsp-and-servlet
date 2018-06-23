@@ -9,6 +9,6 @@
 </head>
 <body style="background-color: #D8D8D8;">
 
- <footer style="text-align:center;">© 2018 Copyright: Vipul Gupta, Niket Sharma AND Visharad Rawat</footer>
+ <footer style="text-align:center;">© 2018 Copyright: Vipul Gupta</footer>
 </body>
 </html>

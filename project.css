@@ -133,3 +133,16 @@ padding-left:400px;
 float:right;
 padding:3px;
 }
+input[type=submit] {
+    border: 2px solid #e7e7e7;
+    color: black;
+    background-color: white;
+    padding: 13px 20px;
+    border-radius: 3px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+}
+input[type=submit]:hover {
+    background-color: #e7e7e7;
+}
